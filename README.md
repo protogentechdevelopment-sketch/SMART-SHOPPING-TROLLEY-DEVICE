@@ -1,4 +1,4 @@
-# 🛒 Smart Shopping Trolley Device
+# 🛒 SMART SHOPPING TROLLEY DEVICE
 
 > An embedded IoT system for automated retail billing using RFID/NFC product detection, weight verification, and real-time TFT display — built on STM32 + ESP32.
 
